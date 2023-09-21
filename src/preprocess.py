@@ -6,7 +6,7 @@
 
 import sys
 import json
-import parser
+# import parser
 from pathlib import Path
 import numpy as np
 import util
